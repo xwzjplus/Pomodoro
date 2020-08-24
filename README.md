@@ -1,7 +1,6 @@
-# Eagluet
-<a href="https://www.producthunt.com/posts/eagluet?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-eagluet" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=204635&theme=light" alt="Eagluet - Simple Pomodora Time with- Force To Focus | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+# Pomodoro
 
-Pomodora Clock which force you to Rest in Rest Mode.
+番茄钟 -- 番茄工作法工具
 
 ![Eagluet](https://res.cloudinary.com/atnak/image/upload/v1591102778/homescreen_udwdgd.png)
 
